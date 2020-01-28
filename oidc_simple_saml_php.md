@@ -1,4 +1,4 @@
-This is an example of connecting Cells Enterprise with an open-source saml server. SimpleSAMLphp is written in native PHP that deals with authentication. For more information, please visit [this link](https://simplesamlphp.org/)
+This is an example of connecting Cells Enterprise Distribution with an open-source saml server. SimpleSAMLphp is written in native PHP that deals with authentication. For more information, please visit [this link](https://simplesamlphp.org/)
 
 ## Install and configure SimpleSAMLphp server
 It's possible to configure SimpleSAMLPhp to serve as a Service Provider or as Idetity Provider. In this how-to, we are going to setup a Identity Provider which provider services to Cells - a service provider.

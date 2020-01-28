@@ -5,9 +5,9 @@ Resources :
 
 ## Create an OAuth2 client for WordPress on Pydio Cells
 
-This is possible on both the **Home** and **Enterprise** Edition.
+This is possible on both the **Home** and **Enterprise** Distribution.
 
-### Pydio Cells Enterprise Edition
+### Pydio Cells Enterprise Distribution
 
 On the left-bar menu, go to **Authentication** > **OAUTH2/OIDC** (top left) > **+ OAUTH2 Client** to create a new client.
 
@@ -24,9 +24,9 @@ You must provide the following information:
 | **Response Types** | `Code`                               |                                    |
 
 
-### Pydio Cells Home Edition
+### Pydio Cells Home Distribution
 
-On Pydio Cells Home edition you must manually add to your **pydio.json**, the oauth2 client, below is a default sample:
+On Pydio Cells Home distribution you must manually add to your **pydio.json**, the oauth2 client, below is a default sample:
 
 ```json
 {

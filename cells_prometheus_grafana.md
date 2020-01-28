@@ -49,7 +49,7 @@ scrape_configs:
 
 You can configure Prometheus to start on the port you wish, default is 9090.
 
-With Cells ED running, you can check that all processes are correctly detected by visiting [http://localhost:9090/targets](http://localhost:9090/targets).
+With Cells Enterprise Distribution running, you can check that all processes are correctly detected by visiting [http://localhost:9090/targets](http://localhost:9090/targets).
 
 [:image-popup:/devops/Prometheus-Targets.png]
 

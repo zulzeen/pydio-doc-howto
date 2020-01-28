@@ -1,4 +1,4 @@
-This how-to shows you how to let users authenticate to Cells Enterprise using the Azure Active Directory Fedaration Service platform deployed on-premises.
+This how-to shows you how to let users authenticate to Cells Enterprise Distribution using the Azure Active Directory Fedaration Service platform deployed on-premises.
 
 ## Install and configure ADFS service on windows server 2012
 

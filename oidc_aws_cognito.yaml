@@ -1,5 +1,5 @@
 title: "Using AWS Cognito as an Identity Provider"
-abstract: "[Cells Enterprise] Using AWS Cognito as an Identity Provider"
+abstract: "[Cells Enterprise Distribution] Using AWS Cognito as an Identity Provider"
 language: und
 category: Identity Management
 tags:
@@ -7,7 +7,7 @@ tags:
   - aws
   - cells
   - cognito
-  - enterprise edition
+  - enterprise distribution
   - identity provider
   - oauth
   - openid

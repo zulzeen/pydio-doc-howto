@@ -1,5 +1,5 @@
 title: "Using Azure ADFS as an Identity Provider"
-abstract: "[Cells Enterprise] Using Azure ADFS as an Identity Provider"
+abstract: "[Cells Enterprise Distribution] Using Azure ADFS as an Identity Provider"
 language: und
 category: Identity Management
 tags:
@@ -7,6 +7,6 @@ tags:
   - authentication
   - azure
   - cells
-  - enterprise edition
+  - enterprise distribution
   - identity provider
   - openid

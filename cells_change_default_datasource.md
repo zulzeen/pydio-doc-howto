@@ -129,7 +129,7 @@ In Home distribution, as you cannot edit the default template path for cellsdata
 
 ### Adapt the template paths to point to the new datasources
 
-Template paths are the mechanism that enable to have dynamic workspaces, typically depending on the name of the loǵged in user for personnal files. In Cells ED you can modify this by going to:  
+Template paths are the mechanism that enable to have dynamic workspaces, typically depending on the name of the loǵged in user for personnal files. In Cells Enterprise Distribution you can modify this by going to:  
 `Admin console >> show advanced parameters >> Left column menu >> Data management >> Template Path`
 
 With the above naming, you should then modify the 2 default template path to reather have:

@@ -1,4 +1,4 @@
-This how-to shows you how to let users authenticate to Cells Enterprise using the AWS Cognito identity platform. Amazon Cognito lets you add user sign-up, sign-in, and access control to your web and mobile apps quickly and easily. 
+This how-to shows you how to let users authenticate to Cells Enterprise Distribution using the AWS Cognito identity platform. Amazon Cognito lets you add user sign-up, sign-in, and access control to your web and mobile apps quickly and easily. 
 
 ## Pre-requisites
 
@@ -8,7 +8,7 @@ Later on, you will have to know the User Pool ID (`POOL_ID`) and the AWS region 
 
 [:image:connectors/cognito-01-users-pool.png]
 
-Also, we assume that for example Cells Enterprise is exposed on `https://local.pydio` domain.
+Also, we assume that for example Cells Enterprise Distribution is exposed on `https://local.pydio` domain.
 
 ## Create a Client Application inside your User Pool
 
@@ -30,7 +30,7 @@ In the `App Integration > Domain` menu, create a specific sub-domain under the A
 
 In the UI Customization tab, you may upload a custom logo for the Sign In page.
 
-## Set up a new OIDC connector on Cells Enterprise
+## Set up a new OIDC connector on Cells Enterprise Distribution
 
 Going back to Cells, go to the Cells Console, under `Authentication > OAUTH2/OIDC` setup panel, and create a new connector with the "OpenID Connect type".
 
